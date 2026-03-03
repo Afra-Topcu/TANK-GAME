@@ -6,9 +6,6 @@ A classic 2D arcade-style tank shooter game developed using the JavaFX framework
 
 This project was developed to master **Graphical User Interfaces (GUI)** and **Event-Driven Programming** in Java using JavaFX. It departs from standard command-line applications by implementing a continuous, real-time game loop (`AnimationTimer`) and handling multi-threaded rendering and logic updates.
 
-### 🎥 Gameplay Demo
-Watch the game in action here: **[Tank 2025 - Gameplay Demo](https://youtu.be/f7qM1CKFrpg?si=Vx2uStpC4HvX0p1d)**
-
 ## 🚀 Technical Features
 
 - **Custom Game Engine:** Hand-coded game loop utilizing JavaFX's `AnimationTimer` for smooth rendering and logic processing.
